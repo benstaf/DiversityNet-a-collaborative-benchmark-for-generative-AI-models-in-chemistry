@@ -6,6 +6,8 @@ idn90bvo788.tex
 mrik5901uco.tex
 fn521filch8.html
 figures/cluster
+v0eoo5n67g.html
+q8sfdkbgpo.html
 kut5fq19sqo.html
 ulmna5t3fpg.html
 dha5vi7pc3o.html
