@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/cluster/cluster.png
+  - path: figures/cluster/variance.png
     type: static
     from:
     - 1
@@ -16,5 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/226673/articles/285209/master/file/figures/cluster/cluster.png"
     folder_url: "/users/226673/articles/285209/master/folder/figures/cluster"
+    url: "/users/226673/articles/285209/master/file/figures/cluster/variance.png"
